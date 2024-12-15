@@ -20,7 +20,10 @@ This project focuses on detecting ships in satellite imagery using a convolution
 ---
 
 ## Requirements
-The project is built using Python and PyTorch
+The project is built using Python and PyTorch (CUDA 12.4)
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+```
 ```bash
 pip install -r requirements.txt
 ```
