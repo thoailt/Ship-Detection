@@ -1,0 +1,8 @@
+json
+random
+numpy==1.24.4
+torch==2.4.1
+torchvision==0.20.0
+PIL
+matplotlib==3.7.5
+model
